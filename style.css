@@ -28,7 +28,7 @@
 }
 
 .logo {
-    background-image: url("Amazon_logo.png");
+    background-image: url("Images/Amazon_logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -115,7 +115,7 @@
 
 .flag {
     margin: 14px 1px;
-    background-image: url(flg.ico);
+    background-image: url(Images/flg.ico);
     width: 21px;
     height: 16px;
     background-size: cover;
@@ -194,7 +194,7 @@ span {
 
 .hero-section
 {
-    background-image: url(1_.jpg);
+    background-image: url(Images/1_.jpg);
     height: 350px;
     background-size: cover;
     width: 80%;
@@ -334,7 +334,7 @@ ul p
 }
 
 .logo {
-    background-image: url("Amazon_logo.png");
+    background-image: url("Images/Amazon_logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
